@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWebForm", "EasyWebForm\EasyWebForm.csproj", "{3AC02B33-5790-4CAB-92EC-D41694603450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC02B33-5790-4CAB-92EC-D41694603450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC02B33-5790-4CAB-92EC-D41694603450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC02B33-5790-4CAB-92EC-D41694603450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC02B33-5790-4CAB-92EC-D41694603450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73785348-0F25-4A09-9D92-1C92B8BAA241}
+	EndGlobalSection
+EndGlobal
