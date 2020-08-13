@@ -43,6 +43,8 @@
         <div class="container body-content">
             <div id="root"></div>
             <hr />
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - мое приложение ASP.NET</p>
             </footer>

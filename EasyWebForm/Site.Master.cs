@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace EasyWebForm
 {
-    public partial class SiteMaster : Page
+    public partial class SiteMaster : MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
